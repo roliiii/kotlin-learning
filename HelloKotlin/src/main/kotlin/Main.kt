@@ -58,8 +58,7 @@ fun main(args: Array<String>) {
     funcWithDefaultOneLiner(asd="asf")
 
     val asd: Person = Person("asd")
-
-    print(asd)
+    asd.print()
 
 }
 
